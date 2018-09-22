@@ -1,7 +1,7 @@
 <?php
 /*
 Toby tamvan :v
-Support by : Mastah Ervan
+Support by : Mastah Ervan, Allah SWT
 */
 
 require_once('./line_class.php');
